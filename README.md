@@ -1,6 +1,6 @@
 # Tutorial do Jogo da Velha do React
 
-## Jogo da Velha em react.
+## Implementação do [Tutorial Jogo da Velha em react](https://pt-br.reactjs.org/tutorial/tutorial.html).
 
 # Getting Started with Create React App
 
